@@ -1,5 +1,5 @@
-from backend.src.entities.entity import Session, engine, Base
-from backend.src.entities.exam import Exam
+from src.entities.entity import Session, engine, Base
+from src.entities.exam import Exam
 
 if __name__ == '__main__':
 
